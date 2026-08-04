@@ -1,0 +1,16 @@
+{
+  "name": "tomheo-relatable",
+  "description": "AI 티 안 나는 글과 디자인을 위한 규칙 스킬",
+  "version": "0.1.0",
+  "author": {
+    "name": "tomheo"
+  },
+  "license": "MIT",
+  "keywords": [
+    "writing",
+    "style",
+    "korean",
+    "design",
+    "tomheo"
+  ]
+}
